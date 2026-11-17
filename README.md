@@ -127,6 +127,48 @@ Suspicious Transaction Frequency: How do you calculate the frequency of flagged 
 <img width="1422" height="792" alt="Bank analytics dashboard2" src="https://github.com/user-attachments/assets/eaf5de0c-8d05-4355-90e5-558ad5f502ac" />
 <img width="1430" height="797" alt="Bank Dashboard3" src="https://github.com/user-attachments/assets/5a644ee0-f8ec-4d71-bb61-9cef27d2ef2b" />
 
+## Project Insights
+
+### 1. Bank Loan Dashboard – Key Insights
+
+1. **Loan Performance:** Analysed total loan amounts funded, total loans issued, collections, and interest revenue to understand overall lending performance.
+
+2. **Branch and State Analysis:** Evaluated branch-wise revenue and state-wise loan distribution to understand regional lending performance.
+
+3. **Product Analysis:** Identified loan distribution across different product groups to understand lending patterns and product performance.
+
+4. **Loan Repayment Analysis:** Monitored total collections, delinquent clients, and loan repayment status to evaluate repayment performance.
+
+5. **Credit Risk Analysis:** Analysed default loans, delinquent loan rates, and borrower credit grades to understand portfolio risk.
+
+6. **Customer Demographics:** Examined age-group-wise and religion-wise loan distribution to understand borrower demographics and lending patterns.
+
+### 2. Bank Debit and Credit Dashboard – Key Insights
+
+1. **Transaction Analysis:** Analysed total credit amounts and total debit amounts to understand overall transaction activities.
+
+2. **Cash Flow Analysis:** Used the credit-to-debit ratio and net transaction amount to evaluate the relationship between deposits and withdrawals.
+
+3. **Account Activity:** Examined account activity ratios to understand customer transaction behaviour.
+
+4. **Time-Based Analysis:** Analysed daily, weekly, and monthly transaction volumes to identify transaction activity trends.
+
+5. **Branch and Bank Performance:** Compared transaction amounts across branches and banks to understand transaction distribution.
+
+6. **Transaction Monitoring:** Examined transaction methods, high-risk transaction flags, and suspicious transaction frequency to identify unusual transaction patterns.
+
+---
+
+## Final Conclusion
+
+The Banking Analytics Dashboard project provided an opportunity to analyse banking loan performance and customer debit and credit transactions using Excel, SQL, Tableau, and Power BI.
+
+Through this project, I developed two analytical dashboards to monitor key performance indicators, evaluate loan repayment performance, understand credit risk, and analyse customer transaction behaviour.
+
+The project helped me improve my practical skills in data cleaning, data analysis, KPI development, SQL queries, dashboard creation, and data visualization.
+
+Overall, this project demonstrates how data analytics and interactive dashboards can transform raw banking data into meaningful insights that support business analysis, performance monitoring, and data-driven decision-making.
+
 
 
 

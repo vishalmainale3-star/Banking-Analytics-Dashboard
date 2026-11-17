@@ -88,3 +88,36 @@ Suspicious Transaction Frequency: How do you calculate the frequency of flagged 
 ### 3. Bank Debit and Credit Dashboard
 [View Bank Debit and Credit Dashboard](https://github.com/vishalmainale3-star/Banking-Analytics-Dashboard/blob/main/Bank%20Dashboard3.png)
 
+
+
+
+## 1. Bank Loan Dashboard – Project Process
+
+1. **Data Preparation:** Imported the banking loan dataset into Excel and reviewed loan, borrower, repayment, and branch-related information.
+
+2. **Data Cleaning:** Checked missing values, duplicates, and inconsistencies to prepare the dataset for analysis.
+
+3. **KPI Calculation:** Calculated key metrics such as Total Loan Amount Funded, Total Loans, Total Collection, Total Interest, Default Loan Rate, and Delinquent Loan Rate.
+
+4. **Data Analysis:** Analysed branch-wise and state-wise loan distribution, product group performance, borrower age groups, loan grades, and disbursement trends.
+
+5. **Dashboard Development:** Created interactive dashboards using Excel, Tableau, and Power BI to visualize loan performance and portfolio risk.
+
+6. **Validation and Insights:** Compared dashboard results with database records, evaluated loan repayment performance, and identified default and delinquency patterns.
+
+---
+
+## 2. Bank Debit and Credit Dashboard – Project Process
+
+1. **Data Preparation:** Imported the debit and credit banking dataset containing customer details, transaction dates, transaction types, amounts, balances, branches, and bank names.
+
+2. **Data Cleaning:** Checked missing values, duplicates, and inconsistent transaction records to improve data quality.
+
+3. **KPI Calculation:** Calculated Total Credit Amount, Total Debit Amount, Credit-to-Debit Ratio, Net Transaction Amount, and Account Activity Ratio.
+
+4. **Transaction Analysis:** Analysed daily, weekly, and monthly transactions, branch-wise transaction amounts, bank-wise transaction volume, and transaction methods.
+
+5. **Dashboard Development:** Created interactive dashboards using Excel, Tableau, and Power BI to visualize debit and credit activities and transaction patterns.
+
+6. **Validation and Insights:** Validated dashboard results against database records and analysed customer activity, high-value transactions, and unusual transaction patterns.
+

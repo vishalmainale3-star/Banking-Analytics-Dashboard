@@ -161,7 +161,7 @@ Suspicious Transaction Frequency: How do you calculate the frequency of flagged 
 
 ## Final Conclusion
 
-The Banking Analytics Dashboard project provided an opportunity to analyse banking loan performance and customer debit and credit transactions using Excel, SQL, Tableau, and Power BI.
+The Banking Analytics Dashboard project provided an opportunity to analyse banking loan performance and customer debit and credit transactions using Excel and Power BI.
 
 Through this project, I developed two analytical dashboards to monitor key performance indicators, evaluate loan repayment performance, understand credit risk, and analyse customer transaction behaviour.
 

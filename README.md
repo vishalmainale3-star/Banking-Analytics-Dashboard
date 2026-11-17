@@ -9,5 +9,5 @@ Understand transaction behaviour across banks and branches.
 Develop interactive dashboards for data-driven decision-making.
 
 ## Dataset used
-<a href="https://github.com/vishalmainale3-star/Banking-Analytics-Dashboard/blob/main/Bank%20Data%20Analytics...csv">Bank Data </a>
-<a href="https://github.com/vishalmainale3-star/Banking-Analytics-Dashboard/blob/main/Debit%20and%20Credit%20banking_data.csv">bank debit and credit data </a>
+[Bank Data Analytics Dataset](./Bank%20Data%20Analytics.csv)
+[Debit and Credit Banking Dataset](./Debit%20and%20Credit%20banking_data.csv)

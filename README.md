@@ -50,7 +50,7 @@ Loan Maturity: What is Loan Maturity, and how does it track the duration until f
 
 No Verified Loan: What are No Verified Loans, and how can they indicate verification or documentation gaps?
 
-# Bank Debit and Credit Dashboard
+## Bank Debit and Credit Dashboard
 Total Credit Amount: How do you calculate the total credit amount from banking transactions?
 
 Total Debit Amount: How do you calculate the total debit amount from banking transactions?

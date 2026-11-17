@@ -12,8 +12,8 @@ Develop interactive dashboards for data-driven decision-making.
 1. [Bank Data Analytics Dataset](./Bank%20Data%20Analytics...csv)
 
 2. [Debit and Credit Banking Dataset](./Debit%20and%20Credit%20banking_data.csv)
-## Questions(Kpis)
-#  Bank Loan Dashboard
+# Questions(Kpis)
+## Bank Loan Dashboard
 Total Loan Amount Funded: What is Total Loan Amount Funded, and what does it indicate about the bank's lending activities?
 Total Loans: What is Total Loans, and how does it measure the scale of lending activities?
 Total Collection: What is Total Collection, and how does it help evaluate loan repayment performance?
@@ -33,7 +33,7 @@ Age Group-Wise Loan: How do you analyse loan distribution across different borro
 Loan Maturity: What is Loan Maturity, and how does it track the duration until full loan repayment?
 No Verified Loan: What are No Verified Loans, and how can they indicate verification or documentation gaps?
 
-#Bank Debit and Credit Dashboard
+# Bank Debit and Credit Dashboard
 Total Credit Amount: How do you calculate the total credit amount from banking transactions?
 Total Debit Amount: How do you calculate the total debit amount from banking transactions?
 Credit-to-Debit Ratio: How do you calculate the Credit-to-Debit Ratio, and what does it indicate?

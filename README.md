@@ -75,3 +75,16 @@ High-Risk Transaction Flag: How do you identify and flag high-risk transactions 
 
 Suspicious Transaction Frequency: How do you calculate the frequency of flagged high-risk transactions over a given period?
 
+
+
+## Dashboard Screenshots
+
+### 1. Bank Loan Dashboard
+[View Bank Loan Dashboard](https://github.com/vishalmainale3-star/Banking-Analytics-Dashboard/blob/main/Bank%20loan%20dashboard.png)
+
+### 2. Bank Analytics Dashboard
+[View Bank Analytics Dashboard](https://github.com/vishalmainale3-star/Banking-Analytics-Dashboard/blob/main/Bank%20analytics%20dashboard2.png)
+
+### 3. Bank Debit and Credit Dashboard
+[View Bank Debit and Credit Dashboard](https://github.com/vishalmainale3-star/Banking-Analytics-Dashboard/blob/main/Bank%20Dashboard3.png)
+

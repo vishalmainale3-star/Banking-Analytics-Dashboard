@@ -121,3 +121,8 @@ Suspicious Transaction Frequency: How do you calculate the frequency of flagged 
 
 6. **Validation and Insights:** Validated dashboard results against database records and analysed customer activity, high-value transactions, and unusual transaction patterns.
 
+## Dashboard
+
+<img width="1427" height="792" alt="Bank loan dashboard" src="https://github.com/user-attachments/assets/667d6b40-32c1-4e49-bdd2-6e7d0247c4d2" />
+
+

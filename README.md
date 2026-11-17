@@ -15,7 +15,9 @@ Develop interactive dashboards for data-driven decision-making.
 # Questions(Kpis)
 ## Bank Loan Dashboard
 Total Loan Amount Funded: What is Total Loan Amount Funded, and what does it indicate about the bank's lending activities?
+
 Total Loans: What is Total Loans, and how does it measure the scale of lending activities?
+
 Total Collection: What is Total Collection, and how does it help evaluate loan repayment performance?
 Total Interest: What is Total Interest, and how does it reflect the bank's lending revenue?
 Branch-Wise Performance: How do you analyse branch-wise interest, fees, and total revenue?
